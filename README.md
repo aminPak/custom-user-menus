@@ -22,7 +22,7 @@ To get better resualt you should use WordPress standard menu and login with your
       <td>Shown to Customers</td>
     </tr>
     <tr>
-      <td>Admins </td>
+      <td>Administrators </td>
       <td>Can see all menus</td>
     </tr>
   </tbody>
