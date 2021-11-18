@@ -27,8 +27,6 @@ To get better resualt you should use WordPress standard menu and login with your
     </tr>
   </tbody>
 </table>
-: 
-: 
 
 <b style="color:#f3464600;">* The first menu item is number 1 and odd</b>
 
